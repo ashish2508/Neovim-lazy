@@ -2,11 +2,22 @@ i have wasted my 2 days placing this thing in my desktop
 
 currently using windows wsl with ubuntu stable version 
 
-1st step install neovim latest version("\n") 
-don't use sudo command for installing 
-use these ones 
+1st step install neovim latest version ,
+don't use sudo command for installing .
+
+
+
+
+
+
+
+
+
+
+ 
 
 ```
+use these ones
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
 chmod u+x nvim.appimage
 ./nvim.appimage
